@@ -1,0 +1,1596 @@
+{
+  "products": [
+    {
+      "uid": "9ced3f53-3254-41ad-a353-36a534b50987",
+      "name": "Товар 1",
+      "properties": [
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "e17704ef-3a8f-47b2-b7ea-9933f2d3d28d",
+          "value": "Значение 5-4"
+        },
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "88ef65a2-6c63-435f-8cb1-bde8526444a2",
+          "value": "Значение 1-2"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "5b4297b7-73fa-4f21-b49a-406214a71f98",
+          "value": "Значение 3-2"
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 29
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 70
+        }
+      ]
+    },
+    {
+      "uid": "e0236eba-3bb7-4dba-bfd9-22bcbd10e639",
+      "name": "Товар 2",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "fd6ab213-4634-4f3f-abee-7565e028f34f",
+          "value": "Значение 4-2"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "fcb9ff99-04e2-4b98-81a4-7151a57d5eca",
+          "value": "Значение 2-4"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "e17704ef-3a8f-47b2-b7ea-9933f2d3d28d",
+          "value": "Значение 5-4"
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 44
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 46
+        }
+      ]
+    },
+    {
+      "uid": "8ef7b0e4-5a0c-46ce-be6b-87d0915fae7e",
+      "name": "Товар 3",
+      "properties": [
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "e17704ef-3a8f-47b2-b7ea-9933f2d3d28d",
+          "value": "Значение 5-4"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "ad3ff88b-a8cc-4158-b988-27d15e5e4816",
+          "value": "Значение 4-1"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6d450264-e8df-4aed-b176-e4d09c1ebf0b",
+          "value": "Значение 2-1"
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 56
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 54
+        }
+      ]
+    },
+    {
+      "uid": "6ac927b3-1095-474d-9c93-2e8e1698558d",
+      "name": "Товар 4",
+      "properties": [
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "dcee558c-7365-44b9-8750-482f4aa9e477",
+          "value": "Значение 3-4"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "e17704ef-3a8f-47b2-b7ea-9933f2d3d28d",
+          "value": "Значение 5-4"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "fd6ab213-4634-4f3f-abee-7565e028f34f",
+          "value": "Значение 4-2"
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 14
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 57
+        }
+      ]
+    },
+    {
+      "uid": "4b39834f-4358-4ea4-abb6-4ad55b599c02",
+      "name": "Товар 5",
+      "properties": [
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "06946301-5485-44db-b278-842648814c80",
+          "value": "Значение 5-2"
+        },
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "88ef65a2-6c63-435f-8cb1-bde8526444a2",
+          "value": "Значение 1-2"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "ad3ff88b-a8cc-4158-b988-27d15e5e4816",
+          "value": "Значение 4-1"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 19
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "uid": "a4348029-3f72-4db6-bde7-9ef852b5d2d5",
+      "name": "Товар 6",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "ad3ff88b-a8cc-4158-b988-27d15e5e4816",
+          "value": "Значение 4-1"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "127efd8d-2f6a-431d-9dff-976eaf012b97",
+          "value": "Значение 3-1"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "fcb9ff99-04e2-4b98-81a4-7151a57d5eca",
+          "value": "Значение 2-4"
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 25
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 67
+        }
+      ]
+    },
+    {
+      "uid": "17413d2e-1398-4604-8d06-5192216eee48",
+      "name": "Товар 7",
+      "properties": [
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "e17704ef-3a8f-47b2-b7ea-9933f2d3d28d",
+          "value": "Значение 5-4"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "9d5339c6-d5a4-4381-b141-13049de7cbc1",
+          "value": "Значение 4-3"
+        },
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "88ef65a2-6c63-435f-8cb1-bde8526444a2",
+          "value": "Значение 1-2"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 64
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 89
+        }
+      ]
+    },
+    {
+      "uid": "258c14c1-b1d0-4c85-b53c-046f5d581f78",
+      "name": "Товар 8",
+      "properties": [
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "95f0428d-a754-4e2b-8a37-67f983a6a873",
+          "value": "Значение 1-1"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "fd6ab213-4634-4f3f-abee-7565e028f34f",
+          "value": "Значение 4-2"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "fcb9ff99-04e2-4b98-81a4-7151a57d5eca",
+          "value": "Значение 2-4"
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 81
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 85
+        }
+      ]
+    },
+    {
+      "uid": "ff868bab-fed2-4758-8043-6f0b4527202b",
+      "name": "Товар 9",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "27ae11af-5dc0-44ab-bce9-0041eb2152bf",
+          "value": "Значение 4-4"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "06946301-5485-44db-b278-842648814c80",
+          "value": "Значение 5-2"
+        },
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "1ab374ce-45e1-4b12-8d16-863b125e16a6",
+          "value": "Значение 1-3"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 17
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 25
+        }
+      ]
+    },
+    {
+      "uid": "a0058626-10c3-488f-9d78-6cf44c94f56f",
+      "name": "Товар 10",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "27ae11af-5dc0-44ab-bce9-0041eb2152bf",
+          "value": "Значение 4-4"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "127efd8d-2f6a-431d-9dff-976eaf012b97",
+          "value": "Значение 3-1"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "e17704ef-3a8f-47b2-b7ea-9933f2d3d28d",
+          "value": "Значение 5-4"
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 30
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 86
+        }
+      ]
+    },
+    {
+      "uid": "cf0311e0-24b2-4bcd-8031-37a0521919c4",
+      "name": "Товар 11",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "27ae11af-5dc0-44ab-bce9-0041eb2152bf",
+          "value": "Значение 4-4"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6f7b7e26-f8b2-4008-9dee-c631ba7ac9eb",
+          "value": "Значение 2-2"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "dcee558c-7365-44b9-8750-482f4aa9e477",
+          "value": "Значение 3-4"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 19
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 14
+        }
+      ]
+    },
+    {
+      "uid": "90700e6b-656f-4b74-90d5-eeea74b6b074",
+      "name": "Товар 12",
+      "properties": [
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "1ab374ce-45e1-4b12-8d16-863b125e16a6",
+          "value": "Значение 1-3"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "127efd8d-2f6a-431d-9dff-976eaf012b97",
+          "value": "Значение 3-1"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6f7b7e26-f8b2-4008-9dee-c631ba7ac9eb",
+          "value": "Значение 2-2"
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 27
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "uid": "49031c3c-5d63-44d1-b626-d86aff7f21a1",
+      "name": "Товар 13",
+      "properties": [
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6f7b7e26-f8b2-4008-9dee-c631ba7ac9eb",
+          "value": "Значение 2-2"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "e17704ef-3a8f-47b2-b7ea-9933f2d3d28d",
+          "value": "Значение 5-4"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "27ae11af-5dc0-44ab-bce9-0041eb2152bf",
+          "value": "Значение 4-4"
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 50
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 44
+        }
+      ]
+    },
+    {
+      "uid": "c753ae81-5a10-4878-b521-cce8c570e871",
+      "name": "Товар 14",
+      "properties": [
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "dcee558c-7365-44b9-8750-482f4aa9e477",
+          "value": "Значение 3-4"
+        },
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "1ab374ce-45e1-4b12-8d16-863b125e16a6",
+          "value": "Значение 1-3"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "e17704ef-3a8f-47b2-b7ea-9933f2d3d28d",
+          "value": "Значение 5-4"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 83
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 26
+        }
+      ]
+    },
+    {
+      "uid": "e6988a75-4496-4edc-8594-86133d225f9b",
+      "name": "Товар 15",
+      "properties": [
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "e17704ef-3a8f-47b2-b7ea-9933f2d3d28d",
+          "value": "Значение 5-4"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "fd6ab213-4634-4f3f-abee-7565e028f34f",
+          "value": "Значение 4-2"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "127efd8d-2f6a-431d-9dff-976eaf012b97",
+          "value": "Значение 3-1"
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 74
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "uid": "2bff2914-71a5-48f3-a9d8-bb46dcaa107d",
+      "name": "Товар 16",
+      "properties": [
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "95f0428d-a754-4e2b-8a37-67f983a6a873",
+          "value": "Значение 1-1"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "fcb9ff99-04e2-4b98-81a4-7151a57d5eca",
+          "value": "Значение 2-4"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "27ae11af-5dc0-44ab-bce9-0041eb2152bf",
+          "value": "Значение 4-4"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 29
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 94
+        }
+      ]
+    },
+    {
+      "uid": "20fc25d8-a13b-4eeb-8334-c89feb896620",
+      "name": "Товар 17",
+      "properties": [
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "1ab374ce-45e1-4b12-8d16-863b125e16a6",
+          "value": "Значение 1-3"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "ad3ff88b-a8cc-4158-b988-27d15e5e4816",
+          "value": "Значение 4-1"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "f71ead11-fb42-487f-b388-6e13cb6b2e62",
+          "value": "Значение 5-3"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 97
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "uid": "33a52040-10be-4e3c-b85b-4090c3eecf9a",
+      "name": "Товар 18",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "9d5339c6-d5a4-4381-b141-13049de7cbc1",
+          "value": "Значение 4-3"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "0172a5d5-a6ed-4dae-82fd-0c60d022e4a0",
+          "value": "Значение 3-3"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "fcb9ff99-04e2-4b98-81a4-7151a57d5eca",
+          "value": "Значение 2-4"
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 48
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 66
+        }
+      ]
+    },
+    {
+      "uid": "1e113d11-27fa-4e7a-9d28-bdb59c0e8abb",
+      "name": "Товар 19",
+      "properties": [
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "06946301-5485-44db-b278-842648814c80",
+          "value": "Значение 5-2"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "5b4297b7-73fa-4f21-b49a-406214a71f98",
+          "value": "Значение 3-2"
+        },
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "95f0428d-a754-4e2b-8a37-67f983a6a873",
+          "value": "Значение 1-1"
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 49
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "uid": "9cbb405e-b69b-461b-9291-1518214e3c3a",
+      "name": "Товар 20",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "fd6ab213-4634-4f3f-abee-7565e028f34f",
+          "value": "Значение 4-2"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "127efd8d-2f6a-431d-9dff-976eaf012b97",
+          "value": "Значение 3-1"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "fcb9ff99-04e2-4b98-81a4-7151a57d5eca",
+          "value": "Значение 2-4"
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 1
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 63
+        }
+      ]
+    },
+    {
+      "uid": "cb8cfeb7-6c61-4247-b22e-fc4e2c83881f",
+      "name": "Товар 21",
+      "properties": [
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "95cde7d0-05b1-41d8-9409-8d5db36d3e5f",
+          "value": "Значение 1-4"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6d450264-e8df-4aed-b176-e4d09c1ebf0b",
+          "value": "Значение 2-1"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "5b4297b7-73fa-4f21-b49a-406214a71f98",
+          "value": "Значение 3-2"
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 16
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 20
+        }
+      ]
+    },
+    {
+      "uid": "e6733b47-d106-40fa-b77b-b02450534fea",
+      "name": "Товар 22",
+      "properties": [
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "88ef65a2-6c63-435f-8cb1-bde8526444a2",
+          "value": "Значение 1-2"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "b2f6dfd2-06df-4fde-a1ae-2cab179c5590",
+          "value": "Значение 5-1"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "dcee558c-7365-44b9-8750-482f4aa9e477",
+          "value": "Значение 3-4"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 28
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 35
+        }
+      ]
+    },
+    {
+      "uid": "22cbbd7d-619b-485c-9c2e-cf379066f065",
+      "name": "Товар 23",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "fd6ab213-4634-4f3f-abee-7565e028f34f",
+          "value": "Значение 4-2"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "0172a5d5-a6ed-4dae-82fd-0c60d022e4a0",
+          "value": "Значение 3-3"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "fcb9ff99-04e2-4b98-81a4-7151a57d5eca",
+          "value": "Значение 2-4"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 75
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "uid": "cb90f8e9-846d-4436-b2ee-329dd0262412",
+      "name": "Товар 24",
+      "properties": [
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "dcee558c-7365-44b9-8750-482f4aa9e477",
+          "value": "Значение 3-4"
+        },
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "95cde7d0-05b1-41d8-9409-8d5db36d3e5f",
+          "value": "Значение 1-4"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "9d5339c6-d5a4-4381-b141-13049de7cbc1",
+          "value": "Значение 4-3"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 53
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 69
+        }
+      ]
+    },
+    {
+      "uid": "ff9baa1b-e981-43a4-b98c-58383f6f84fc",
+      "name": "Товар 25",
+      "properties": [
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "b2f6dfd2-06df-4fde-a1ae-2cab179c5590",
+          "value": "Значение 5-1"
+        },
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "1ab374ce-45e1-4b12-8d16-863b125e16a6",
+          "value": "Значение 1-3"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6f7b7e26-f8b2-4008-9dee-c631ba7ac9eb",
+          "value": "Значение 2-2"
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 17
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 82
+        }
+      ]
+    },
+    {
+      "uid": "ef3d7e5e-bc6b-4794-a4ef-4328f75c5fe9",
+      "name": "Товар 26",
+      "properties": [
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "dcee558c-7365-44b9-8750-482f4aa9e477",
+          "value": "Значение 3-4"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "b2f6dfd2-06df-4fde-a1ae-2cab179c5590",
+          "value": "Значение 5-1"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "ad3ff88b-a8cc-4158-b988-27d15e5e4816",
+          "value": "Значение 4-1"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 20
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 44
+        }
+      ]
+    },
+    {
+      "uid": "aeada1a0-851a-41e9-b66e-89de640ad405",
+      "name": "Товар 27",
+      "properties": [
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "0172a5d5-a6ed-4dae-82fd-0c60d022e4a0",
+          "value": "Значение 3-3"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "e17704ef-3a8f-47b2-b7ea-9933f2d3d28d",
+          "value": "Значение 5-4"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6f7b7e26-f8b2-4008-9dee-c631ba7ac9eb",
+          "value": "Значение 2-2"
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 38
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 20
+        }
+      ]
+    },
+    {
+      "uid": "c6717a15-eb7d-4b96-ae97-94ec54418558",
+      "name": "Товар 28",
+      "properties": [
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "127efd8d-2f6a-431d-9dff-976eaf012b97",
+          "value": "Значение 3-1"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "9d5339c6-d5a4-4381-b141-13049de7cbc1",
+          "value": "Значение 4-3"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6d450264-e8df-4aed-b176-e4d09c1ebf0b",
+          "value": "Значение 2-1"
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 7
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "uid": "d546f35c-848d-4293-9db5-32d7fc885de7",
+      "name": "Товар 29",
+      "properties": [
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "f71ead11-fb42-487f-b388-6e13cb6b2e62",
+          "value": "Значение 5-3"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "ad3ff88b-a8cc-4158-b988-27d15e5e4816",
+          "value": "Значение 4-1"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "dcee558c-7365-44b9-8750-482f4aa9e477",
+          "value": "Значение 3-4"
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 76
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "uid": "69d375e6-1df0-4f72-a9d5-88a1974a4282",
+      "name": "Товар 30",
+      "properties": [
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "f71ead11-fb42-487f-b388-6e13cb6b2e62",
+          "value": "Значение 5-3"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "fd6ab213-4634-4f3f-abee-7565e028f34f",
+          "value": "Значение 4-2"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6f7b7e26-f8b2-4008-9dee-c631ba7ac9eb",
+          "value": "Значение 2-2"
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 74
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 20
+        }
+      ]
+    },
+    {
+      "uid": "5d1ae9a4-9289-412e-ae7a-09cc9525f877",
+      "name": "Товар 31",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "ad3ff88b-a8cc-4158-b988-27d15e5e4816",
+          "value": "Значение 4-1"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6d450264-e8df-4aed-b176-e4d09c1ebf0b",
+          "value": "Значение 2-1"
+        },
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "95cde7d0-05b1-41d8-9409-8d5db36d3e5f",
+          "value": "Значение 1-4"
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 51
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 58
+        }
+      ]
+    },
+    {
+      "uid": "e8f9970d-6387-44cd-a5fb-6d3b7e924fff",
+      "name": "Товар 32",
+      "properties": [
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "fcb9ff99-04e2-4b98-81a4-7151a57d5eca",
+          "value": "Значение 2-4"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "dcee558c-7365-44b9-8750-482f4aa9e477",
+          "value": "Значение 3-4"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "27ae11af-5dc0-44ab-bce9-0041eb2152bf",
+          "value": "Значение 4-4"
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 31
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 68
+        }
+      ]
+    },
+    {
+      "uid": "6952a25f-04b0-4ba3-9cdf-fef691883c79",
+      "name": "Товар 33",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "fd6ab213-4634-4f3f-abee-7565e028f34f",
+          "value": "Значение 4-2"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "e17704ef-3a8f-47b2-b7ea-9933f2d3d28d",
+          "value": "Значение 5-4"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "7210cab6-a571-4f98-9586-cc251be5d267",
+          "value": "Значение 2-3"
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 67
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 33
+        }
+      ]
+    },
+    {
+      "uid": "029b7d2e-b350-4569-b16a-984cf546e613",
+      "name": "Товар 34",
+      "properties": [
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "88ef65a2-6c63-435f-8cb1-bde8526444a2",
+          "value": "Значение 1-2"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "7210cab6-a571-4f98-9586-cc251be5d267",
+          "value": "Значение 2-3"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "f71ead11-fb42-487f-b388-6e13cb6b2e62",
+          "value": "Значение 5-3"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 43
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 76
+        }
+      ]
+    },
+    {
+      "uid": "914f5945-56ff-450e-93c3-a2dc85ff942b",
+      "name": "Товар 35",
+      "properties": [
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "0172a5d5-a6ed-4dae-82fd-0c60d022e4a0",
+          "value": "Значение 3-3"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "e17704ef-3a8f-47b2-b7ea-9933f2d3d28d",
+          "value": "Значение 5-4"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "fd6ab213-4634-4f3f-abee-7565e028f34f",
+          "value": "Значение 4-2"
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 61
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 81
+        }
+      ]
+    },
+    {
+      "uid": "372d73b3-9551-4d03-acb2-782cb4b9d234",
+      "name": "Товар 36",
+      "properties": [
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "fcb9ff99-04e2-4b98-81a4-7151a57d5eca",
+          "value": "Значение 2-4"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "0172a5d5-a6ed-4dae-82fd-0c60d022e4a0",
+          "value": "Значение 3-3"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "ad3ff88b-a8cc-4158-b988-27d15e5e4816",
+          "value": "Значение 4-1"
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 65
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "uid": "a382a884-664e-4267-a6da-fb0054fc1467",
+      "name": "Товар 37",
+      "properties": [
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6f7b7e26-f8b2-4008-9dee-c631ba7ac9eb",
+          "value": "Значение 2-2"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "06946301-5485-44db-b278-842648814c80",
+          "value": "Значение 5-2"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "dcee558c-7365-44b9-8750-482f4aa9e477",
+          "value": "Значение 3-4"
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 55
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 42
+        }
+      ]
+    },
+    {
+      "uid": "d279a958-2005-4d12-94da-d810eb2e5baa",
+      "name": "Товар 38",
+      "properties": [
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "0172a5d5-a6ed-4dae-82fd-0c60d022e4a0",
+          "value": "Значение 3-3"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "fcb9ff99-04e2-4b98-81a4-7151a57d5eca",
+          "value": "Значение 2-4"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "27ae11af-5dc0-44ab-bce9-0041eb2152bf",
+          "value": "Значение 4-4"
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 85
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "uid": "fc6ff175-36c1-4d91-9f69-7db316b0a41e",
+      "name": "Товар 39",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "9d5339c6-d5a4-4381-b141-13049de7cbc1",
+          "value": "Значение 4-3"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6f7b7e26-f8b2-4008-9dee-c631ba7ac9eb",
+          "value": "Значение 2-2"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "0172a5d5-a6ed-4dae-82fd-0c60d022e4a0",
+          "value": "Значение 3-3"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 13
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "uid": "73cce515-33fe-4d59-a226-0f616a3268cb",
+      "name": "Товар 40",
+      "properties": [
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "5b4297b7-73fa-4f21-b49a-406214a71f98",
+          "value": "Значение 3-2"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "fcb9ff99-04e2-4b98-81a4-7151a57d5eca",
+          "value": "Значение 2-4"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "f71ead11-fb42-487f-b388-6e13cb6b2e62",
+          "value": "Значение 5-3"
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 28
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "uid": "5346b85d-2329-4d9a-9543-896fa94a401b",
+      "name": "Товар 41",
+      "properties": [
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "f71ead11-fb42-487f-b388-6e13cb6b2e62",
+          "value": "Значение 5-3"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "dcee558c-7365-44b9-8750-482f4aa9e477",
+          "value": "Значение 3-4"
+        },
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "9d5339c6-d5a4-4381-b141-13049de7cbc1",
+          "value": "Значение 4-3"
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 50
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 49
+        }
+      ]
+    },
+    {
+      "uid": "1859a2b2-ceca-4665-9237-56d5a9b647f6",
+      "name": "Товар 42",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "9d5339c6-d5a4-4381-b141-13049de7cbc1",
+          "value": "Значение 4-3"
+        },
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "88ef65a2-6c63-435f-8cb1-bde8526444a2",
+          "value": "Значение 1-2"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "fcb9ff99-04e2-4b98-81a4-7151a57d5eca",
+          "value": "Значение 2-4"
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 21
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 72
+        }
+      ]
+    },
+    {
+      "uid": "b50bed9c-e37d-43b6-be6d-3cbb2da64683",
+      "name": "Товар 43",
+      "properties": [
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "1ab374ce-45e1-4b12-8d16-863b125e16a6",
+          "value": "Значение 1-3"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "b2f6dfd2-06df-4fde-a1ae-2cab179c5590",
+          "value": "Значение 5-1"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "dcee558c-7365-44b9-8750-482f4aa9e477",
+          "value": "Значение 3-4"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 40
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 83
+        }
+      ]
+    },
+    {
+      "uid": "d8c31a6d-798c-4e01-8ce4-72f243b59b97",
+      "name": "Товар 44",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "fd6ab213-4634-4f3f-abee-7565e028f34f",
+          "value": "Значение 4-2"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "5b4297b7-73fa-4f21-b49a-406214a71f98",
+          "value": "Значение 3-2"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "f71ead11-fb42-487f-b388-6e13cb6b2e62",
+          "value": "Значение 5-3"
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 41
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 57
+        }
+      ]
+    },
+    {
+      "uid": "e641baad-a0b7-401d-8bad-3641871ccb1c",
+      "name": "Товар 45",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "fd6ab213-4634-4f3f-abee-7565e028f34f",
+          "value": "Значение 4-2"
+        },
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "95f0428d-a754-4e2b-8a37-67f983a6a873",
+          "value": "Значение 1-1"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6f7b7e26-f8b2-4008-9dee-c631ba7ac9eb",
+          "value": "Значение 2-2"
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 94
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "uid": "f54c44c7-d271-4f56-94bd-6c8ff3a1ef86",
+      "name": "Товар 46",
+      "properties": [
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "fcb9ff99-04e2-4b98-81a4-7151a57d5eca",
+          "value": "Значение 2-4"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "127efd8d-2f6a-431d-9dff-976eaf012b97",
+          "value": "Значение 3-1"
+        },
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "95cde7d0-05b1-41d8-9409-8d5db36d3e5f",
+          "value": "Значение 1-4"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 44
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "uid": "3cecfce9-da16-4c0e-81af-646d1ba7bb33",
+      "name": "Товар 47",
+      "properties": [
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "7210cab6-a571-4f98-9586-cc251be5d267",
+          "value": "Значение 2-3"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "0172a5d5-a6ed-4dae-82fd-0c60d022e4a0",
+          "value": "Значение 3-3"
+        },
+        {
+          "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+          "value_uid": "95f0428d-a754-4e2b-8a37-67f983a6a873",
+          "value": "Значение 1-1"
+        },
+        {
+          "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+          "value": 79
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 80
+        }
+      ]
+    },
+    {
+      "uid": "82bcc543-e2e5-4c33-a556-0abed4bbf0af",
+      "name": "Товар 48",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "ad3ff88b-a8cc-4158-b988-27d15e5e4816",
+          "value": "Значение 4-1"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6d450264-e8df-4aed-b176-e4d09c1ebf0b",
+          "value": "Значение 2-1"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "dcee558c-7365-44b9-8750-482f4aa9e477",
+          "value": "Значение 3-4"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 8
+        },
+        {
+          "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+          "value": 51
+        }
+      ]
+    },
+    {
+      "uid": "f961ccb7-2c9f-4442-8da2-235e23e8b0b0",
+      "name": "Товар 49",
+      "properties": [
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "0172a5d5-a6ed-4dae-82fd-0c60d022e4a0",
+          "value": "Значение 3-3"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6f7b7e26-f8b2-4008-9dee-c631ba7ac9eb",
+          "value": "Значение 2-2"
+        },
+        {
+          "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+          "value_uid": "b2f6dfd2-06df-4fde-a1ae-2cab179c5590",
+          "value": "Значение 5-1"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 41
+        },
+        {
+          "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "uid": "071bd312-388d-499a-ac58-4137408d03bd",
+      "name": "Товар 50",
+      "properties": [
+        {
+          "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+          "value_uid": "ad3ff88b-a8cc-4158-b988-27d15e5e4816",
+          "value": "Значение 4-1"
+        },
+        {
+          "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+          "value_uid": "6d450264-e8df-4aed-b176-e4d09c1ebf0b",
+          "value": "Значение 2-1"
+        },
+        {
+          "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+          "value_uid": "0172a5d5-a6ed-4dae-82fd-0c60d022e4a0",
+          "value": "Значение 3-3"
+        },
+        {
+          "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+          "value": 78
+        },
+        {
+          "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+          "value": 36
+        }
+      ]
+    }
+  ],
+  "properties": [
+    {
+      "uid": "c78a9b71-faf2-40df-ac82-340bf2f445ca",
+      "name": "Свойство list 1",
+      "type": "list",
+      "values": [
+        {
+          "uid": "95f0428d-a754-4e2b-8a37-67f983a6a873",
+          "value": "Значение 1-1"
+        },
+        {
+          "uid": "88ef65a2-6c63-435f-8cb1-bde8526444a2",
+          "value": "Значение 1-2"
+        },
+        {
+          "uid": "1ab374ce-45e1-4b12-8d16-863b125e16a6",
+          "value": "Значение 1-3"
+        },
+        {
+          "uid": "95cde7d0-05b1-41d8-9409-8d5db36d3e5f",
+          "value": "Значение 1-4"
+        }
+      ]
+    },
+    {
+      "uid": "96108e5c-ab83-4848-b00a-6e1bc5e9a883",
+      "name": "Свойство list 2",
+      "type": "list",
+      "values": [
+        {
+          "uid": "6d450264-e8df-4aed-b176-e4d09c1ebf0b",
+          "value": "Значение 2-1"
+        },
+        {
+          "uid": "6f7b7e26-f8b2-4008-9dee-c631ba7ac9eb",
+          "value": "Значение 2-2"
+        },
+        {
+          "uid": "7210cab6-a571-4f98-9586-cc251be5d267",
+          "value": "Значение 2-3"
+        },
+        {
+          "uid": "fcb9ff99-04e2-4b98-81a4-7151a57d5eca",
+          "value": "Значение 2-4"
+        }
+      ]
+    },
+    {
+      "uid": "a28c7b6c-1a77-4bf3-b10a-1cc914ba5a61",
+      "name": "Свойство list 3",
+      "type": "list",
+      "values": [
+        {
+          "uid": "127efd8d-2f6a-431d-9dff-976eaf012b97",
+          "value": "Значение 3-1"
+        },
+        {
+          "uid": "5b4297b7-73fa-4f21-b49a-406214a71f98",
+          "value": "Значение 3-2"
+        },
+        {
+          "uid": "0172a5d5-a6ed-4dae-82fd-0c60d022e4a0",
+          "value": "Значение 3-3"
+        },
+        {
+          "uid": "dcee558c-7365-44b9-8750-482f4aa9e477",
+          "value": "Значение 3-4"
+        }
+      ]
+    },
+    {
+      "uid": "79e0b026-48b4-4790-9983-a94e46f63d3c",
+      "name": "Свойство list 4",
+      "type": "list",
+      "values": [
+        {
+          "uid": "ad3ff88b-a8cc-4158-b988-27d15e5e4816",
+          "value": "Значение 4-1"
+        },
+        {
+          "uid": "fd6ab213-4634-4f3f-abee-7565e028f34f",
+          "value": "Значение 4-2"
+        },
+        {
+          "uid": "9d5339c6-d5a4-4381-b141-13049de7cbc1",
+          "value": "Значение 4-3"
+        },
+        {
+          "uid": "27ae11af-5dc0-44ab-bce9-0041eb2152bf",
+          "value": "Значение 4-4"
+        }
+      ]
+    },
+    {
+      "uid": "9b58c43d-163d-41e5-a323-d997ecce3fbc",
+      "name": "Свойство list 5",
+      "type": "list",
+      "values": [
+        {
+          "uid": "b2f6dfd2-06df-4fde-a1ae-2cab179c5590",
+          "value": "Значение 5-1"
+        },
+        {
+          "uid": "06946301-5485-44db-b278-842648814c80",
+          "value": "Значение 5-2"
+        },
+        {
+          "uid": "f71ead11-fb42-487f-b388-6e13cb6b2e62",
+          "value": "Значение 5-3"
+        },
+        {
+          "uid": "e17704ef-3a8f-47b2-b7ea-9933f2d3d28d",
+          "value": "Значение 5-4"
+        }
+      ]
+    },
+    {
+      "uid": "d00ace7b-be18-4125-a597-0b3be5f1f035",
+      "name": "Свойство int 1",
+      "type": "int"
+    },
+    {
+      "uid": "ba81cd55-ffba-4e6a-b619-d7477f645ed4",
+      "name": "Свойство int 2",
+      "type": "int"
+    },
+    {
+      "uid": "c2dd7db0-690c-460c-8e4a-8d0cd54e0d7b",
+      "name": "Свойство int 3",
+      "type": "int"
+    },
+    {
+      "uid": "f6bc33cd-106a-4998-b355-a63b498e3fef",
+      "name": "Свойство int 4",
+      "type": "int"
+    },
+    {
+      "uid": "9d68a0bb-c26e-4dee-89f6-23d24bdd3c33",
+      "name": "Свойство int 5",
+      "type": "int"
+    }
+  ]
+}
